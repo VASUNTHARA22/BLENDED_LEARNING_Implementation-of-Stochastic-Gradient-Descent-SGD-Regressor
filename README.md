@@ -18,7 +18,15 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 4.Split the data into features (X) and target (y).
 
-5.Divide the data into training and testing sets. 6.Create an SGD Regressor model. 7.Fit the model on the training data. 8.Evaluate the model performance. 9.Make predictions and visualize the results.
+5.Divide the data into training and testing sets. 
+
+6.Create an SGD Regressor model.
+
+7.Fit the model on the training data.
+
+8.Evaluate the model performance.
+
+9.Make predictions and visualize the results.
 
 
 ## Program:
